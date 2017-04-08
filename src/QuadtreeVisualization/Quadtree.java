@@ -23,7 +23,7 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import prolab2.Node.regions;
+import QuadtreeVisualization.Node.regions;
 
 /**
  * @author Sapo
